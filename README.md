@@ -43,3 +43,15 @@
 * Concise: Use just enough detail, don't overexplain
 * Commanding: Use imperatives like "Explain", "List", "Compare"
 * Contextual: Provide relevant background as needed
+
+## Prompt Template
+* As a role, your mission is to task.
+* Deliver this as a format, writing in the style of tone.
+* Focus on achieving objective, but don't restriction.
+* Additionally, aim to incorporate desired skill/technique.
+
+## Yes Chef: From Recipe to Result
+* Prompt Recipe -> LLM Sous Chef --> Output Dish.
+* Summarize this product in one sentence....
+* Summarize this product for a blurb on the product launch webpage, include a one sentence tagline, product description, and mockup a blog post too.
+   * This one needs a lot of structure, steps, and context.

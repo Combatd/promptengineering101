@@ -55,3 +55,17 @@
 * Summarize this product in one sentence....
 * Summarize this product for a blurb on the product launch webpage, include a one sentence tagline, product description, and mockup a blog post too.
    * This one needs a lot of structure, steps, and context.
+ 
+## Menu of Dishes: What Your Prompt Can Cook Up
+* Light Appetizer: Summarize with quick bite-sized insights
+* Side Dish: Compare and contrast to enhance understanding
+* Hearty Starter: Explain and Analyze to warm up thinking
+* Main Course: Strategy and Planning with rich layered decisions
+* Chef's Special: Action-Oriented Practical Execution
+* Dessert: Creative and Storytelling that is light, fun, or emotionally engaging
+
+## Plating the Dish: Formatting Your Prompt
+* Simple Lists
+* Markdown Tables
+* Freeform Text
+* JavaScript Object Notation (JSON)

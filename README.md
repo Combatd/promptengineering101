@@ -37,3 +37,9 @@
   * It is like a set of instructions, a creative brief, or a recipe.
 * Prompting is the recipe, and the LLM is your sous chef.
   * The better the recipe (prompt), the more effective the sous chef (LLM) can be in helping prepare the final dish (output).
+
+## The 4 C's of Great Recipes (Prompts)
+* Clear: Precise language, avoid ambuguity
+* Concise: Use just enough detail, don't overexplain
+* Commanding: Use imperatives like "Explain", "List", "Compare"
+* Contextual: Provide relevant background as needed

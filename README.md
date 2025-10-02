@@ -17,3 +17,23 @@
 * Limited Memory: Can forget earlier steps in a long recipe
 * No Real-Time Awareness: Doesn't know what's in the fridge today unless you tell it
 * Bias and Tone Drift: Can add seasoning you didn't ask for unless guided
+
+## Common Pitfalls - and How to Stay in Control
+* Hallucinations: Ask for sources or verify manually
+* Missing context: Add background information or define the audience
+* Off-brand tone: Include tone/style guidance in prompt
+* Bias or sensitive content: Review critcally before sharing externally
+* Outdated knowledge: Pair with real-time sources or apply human judgement
+
+## 5-Step Process for LLMs (Cooking Workflow)
+* Input: Supply the ingredients - words, context, instructions in the prompt
+* Tokenization: The sous chef (LLM) breaks your prompt into smaller chunks, like chopping up ingredients into usable parts
+* Encoding: The AI organizations those chunks and prepares the kitchen station - assigning numerical meaning
+* Processing: The LLM processes everything by drawing on training to assemble a cohesive response.
+* Output: Finally, your sous chef presents the finished dish tailored to your recipe (prompt).
+
+## What is a Prompt?
+* A prompt is the text or question you give to an AI model to guide its response.
+  * It is like a set of instructions, a creative brief, or a recipe.
+* Prompting is the recipe, and the LLM is your sous chef.
+  * The better the recipe (prompt), the more effective the sous chef (LLM) can be in helping prepare the final dish (output).
